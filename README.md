@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Active Directory Pentesting**
 
-- 📝 I regularly write articles on [https://medium.com/@vishnuv4910](https://medium.com/@vishnuv4910)
+- 📝 Articles on [https://medium.com/@vishnuv4910](https://medium.com/@vishnuv4910)
 
 - 💬 Ask me about **Web | API | Thick Client | AD**
 
